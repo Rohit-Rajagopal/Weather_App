@@ -55,9 +55,3 @@ button:hover {
   min-height: 1.5em;
   text-align: center;
 }
-
-.image {
-  width: 100px;
-  height: 100px;
-  object-fit: contain;
-}
